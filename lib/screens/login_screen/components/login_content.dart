@@ -141,7 +141,7 @@ class _LoginContentState extends State<LoginContent>
   @override
   void initState() {
     createAccountContent = [
-      inputField('Name', Ionicons.person_outline),
+      inputField('аты', Ionicons.person_outline),
       inputField('Email', Ionicons.mail_outline),
       inputField('Password', Ionicons.lock_closed_outline),
       loginButton('Кирүү'),
